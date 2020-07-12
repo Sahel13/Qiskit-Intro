@@ -1,3 +1,3 @@
-# Files from the Qiskit Itro course on Youtube
+# Files from the Qiskit Intro course on Youtube
 
 Code saved for future reference.
